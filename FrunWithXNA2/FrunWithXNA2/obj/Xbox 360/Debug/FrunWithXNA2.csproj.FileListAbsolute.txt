@@ -1,0 +1,10 @@
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\black_tile.xnb
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\player.xnb
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\red_tile.xnb
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\yellow_tile.xnb
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\FrunWithXNA2.exe
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\FrunWithXNA2.pdb
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\obj\Xbox 360\Debug\ResolveAssemblyReference.cache
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\obj\Xbox 360\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\obj\Xbox 360\Debug\FrunWithXNA2.exe
+C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\obj\Xbox 360\Debug\FrunWithXNA2.pdb

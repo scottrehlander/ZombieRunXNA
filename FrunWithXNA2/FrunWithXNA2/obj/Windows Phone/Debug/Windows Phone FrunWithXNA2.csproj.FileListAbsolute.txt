@@ -1,0 +1,46 @@
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\black_tile.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\red_tile.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\yellow_tile.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\BWLeft Sprite.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\bground.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Level1\Ground.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Level1\Stone.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Ammo\bullet.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Wp7Controls\arrowBlueLeft.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Wp7Controls\arrowBlueRight.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Wp7Controls\jumpButtonBlue.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\Basher1.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Menus\gameOver.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Menus\retry.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Wp7Controls\playerHealthBar.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Menus\new.xnb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\FrunWithXNA2.dll
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\FrunWithXNA2.pdb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\FrunWithXNA2.dll
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\FrunWithXNA2.pdb
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\FrunWithXNA2.xap
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\Softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Courier New.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\grn-zombie-big.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\ninja-trans.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\flyingEyes-trans.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Level1\cobblestone.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Level1\wall.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Menus\Courier.New.MenuFont.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\rocketman.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\Ammo\Rocket-icon.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\devil stabber.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\Content\NPCs\egg.xnb
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\FrunWithXNA2.dll.config
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\FrunWithXNA2.xap
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\XapCacheFile.xml
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\bin\Windows Phone\Debug\AppManifest.xaml
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\WMAppManifest.xml.g
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2\obj\Windows Phone\Debug\WMAppManifest.xml
+bin\Windows Phone\Debug\GameThumbnail.png

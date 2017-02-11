@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>black_tile.png</Source>
+      <Name>black_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\black_tile.xnb</Output>
+      <Time>2005-09-26T23:36:20.124-04:00</Time>
+    </Item>
+    <Item>
+      <Source>player.png</Source>
+      <Name>player</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\player.xnb</Output>
+      <Time>2005-09-27T01:01:07.224-04:00</Time>
+    </Item>
+    <Item>
+      <Source>red_tile.png</Source>
+      <Name>red_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\red_tile.xnb</Output>
+      <Time>2005-09-26T23:36:20.128-04:00</Time>
+    </Item>
+    <Item>
+      <Source>yellow_tile.png</Source>
+      <Name>yellow_tile</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\yellow_tile.xnb</Output>
+      <Time>2005-09-26T23:36:20.13-04:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <TargetPlatform>Xbox360</TargetPlatform>
+      <TargetProfile>HiDef</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>true</CompressContent>
+      <RootDirectory>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2Content\</RootDirectory>
+      <LoggerRootDirectory>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2Content\obj\Xbox 360\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\softdev\xbox\FrunWithXNA2\FrunWithXNA2\FrunWithXNA2\bin\Xbox 360\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2010-08-23T12:41:18-04:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2010-09-25T20:56:15.2608-04:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

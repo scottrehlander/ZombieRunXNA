@@ -1,0 +1,7 @@
+C:\softdev\xbox\StickPlatformer\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\softdev\ZombieDefenseNew\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Softdev\personal\ZombieDefense\ZombieDefenseGuyDies\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\softdev\ZombieD 12-13\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\Softdev\personal\ZombieDefense 12-20-10\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\softdev\ZombiDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
+C:\softdev\personal\ZombieDefense\XnaZombieDefense\FrunWithXNA2\FrunWithXNA2Content\obj\Windows Phone\Debug\ResolveAssemblyReference.cache
